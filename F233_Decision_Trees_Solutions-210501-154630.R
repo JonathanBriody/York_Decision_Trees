@@ -4,6 +4,9 @@
 
 ####**** Parameters ****####  
 
+
+
+
 ## Probabilities 
 p.hiv <- 0.05 # The prevalence of undetected HIV in the antenatal population 
 p.trans.control <- 0.26  # Probability of vertical transmission (unknown HIV)
